@@ -8,6 +8,7 @@ SimpleDocbaseは[Docbasse](https://docbase.io/)リダー及び勤怠を入力で
 * グループ投稿、コメントを閲覧できます。
 * 勤務表を作成し、Docbaseへアップロード（Markdown形式）できます。
 * 使われた[Docbasse API](https://help.docbase.io/posts/45703).
+* [Firebase](https://firebase.google.com/)を利用したログイン管理
 
 ## Getting Started
 
